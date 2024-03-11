@@ -1,0 +1,2 @@
+file created by dev 2.
+This commit will not have dev1's 2nd line.
